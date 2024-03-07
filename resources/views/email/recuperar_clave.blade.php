@@ -1,0 +1,1 @@
+<h2>La clave del usuario {{$correo}} es: {{$clave}} </h2>
